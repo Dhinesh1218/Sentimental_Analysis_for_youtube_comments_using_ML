@@ -101,9 +101,4 @@ This project is licensed under the MIT License.
 **Dhinesh**  
 Technical Analyst & Report Designer | Specializing in SQL, Oracle, and ML projects  
 
----
-
-👉 This README gives your project a polished look and makes it easy for others to understand, install, and contribute.  
-
-Would you like me to also **add badges** (like Python version, license, stars, issues) at the top for extra professionalism?
 
