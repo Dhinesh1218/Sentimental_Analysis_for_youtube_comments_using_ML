@@ -1,7 +1,3 @@
-Got it 👍 — you want a **professional README.md** for your GitHub project *Sentimental Analysis for YouTube Comments using ML*. Since a good README is the face of your repository, I’ll draft one that is clear, structured, and developer‑friendly. You can copy this directly into your repo’s `README.md` file.
-
----
-
 # 📘 Sentiment Analysis for YouTube Comments using ML
 
 ## 📌 Overview
@@ -110,3 +106,4 @@ Technical Analyst & Report Designer | Specializing in SQL, Oracle, and ML projec
 👉 This README gives your project a polished look and makes it easy for others to understand, install, and contribute.  
 
 Would you like me to also **add badges** (like Python version, license, stars, issues) at the top for extra professionalism?
+
